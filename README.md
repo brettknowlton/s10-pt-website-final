@@ -3,10 +3,17 @@ README's are Markdown files, ending with the .md extension. Markdown is a conven
 To view markdown, use https://markdown-it.github.io <br><br>
 
 # Repository Name:  s10_pt_website_final   
-This repository is for students to demonstrate their Git and GitHub skills.<br><br><br><br><br>  
+_This repository is for students to demonstrate their Git and GitHub skills._<br><br><br><br><br>  
 
 ## Project Descripton: 
-\<*insert your project description here when instructed*><br><br><br><br><br>
-             
+### Pacific Trails
+\<*This project is a website for Pacific Trails. Pacific Trails offers get-away resort packages for travel and relaxation in the wilderness*><br><br><br><br><br>
+- Rentable Yurts
+- Various Wilderness Activities
+- Online Reservations
+**Make a Reservation!**
+
+---
+
 ## Practice working in detached HEAD mode:
-Secret phrase: \<*i*nsert secret-phrasse here when instructed*>
+Secret phrase: \<*"I traveled back in time to find this" *>
